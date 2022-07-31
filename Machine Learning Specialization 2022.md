@@ -4,9 +4,9 @@ www.tiziran.com
 
 ## Supervised <br /> Machine<br /> Learning<br />  Regression <br />&Classification
 
-### week 1
-### week 2
-### week 3
+### week 1: https://www.tiziran.com/
+### week 2: https://www.tiziran.com/
+### week 3: https://www.tiziran.com/
 
 ## Advanced <br /> Learning <br /> Algorithms
 
