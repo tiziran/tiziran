@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning Specialization 2022.md",
+                "file": "Personal Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3333d6faa9e09c90",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Specialization 2022.md",
+                "file": "Personal Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Specialization 2022.md",
+                "file": "Personal Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,11 +134,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Specialization 2022.md"
+                "file": "Personal Management.md"
               }
             }
+          },
+          {
+            "id": "cf331213d970488d",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
