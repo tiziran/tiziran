@@ -1,4 +1,4 @@
-# tiziran
+# Tiziran
 Update Auguest 2022
 Farshid PirahanSiah 
 
