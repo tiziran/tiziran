@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "594241a878007a68",
+    "id": "70536ac8e0fc98e2",
     "type": "split",
     "children": [
       {
-        "id": "b940676cf82db3fd",
+        "id": "32cbf3c0b49c01c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ff77e73e63c1461c",
+    "id": "683d4a08a86adcba",
     "type": "split",
     "children": [
       {
-        "id": "38bf35b90129db2e",
+        "id": "2fef948309414f68",
         "type": "tabs",
         "children": [
           {
-            "id": "b51d6de7631f9a3a",
+            "id": "9db13bd09b2ae9d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "519b6ac50781b75f",
+            "id": "39ec92ee7682fb28",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "73802e0a27e50e2a",
+            "id": "34b56f37811e234e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "bfc9ab1f31a13aa9",
+    "id": "3333d6faa9e09c90",
     "type": "split",
     "children": [
       {
-        "id": "70ff51427626513c",
+        "id": "328abb65c9858ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "76323a8619dec886",
+            "id": "971843cb09fcf103",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "b00fd5e97d631c95",
+            "id": "da97578741356e11",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -101,7 +101,7 @@
             }
           },
           {
-            "id": "e29523b22b0d39bf",
+            "id": "c81ec9efd8d9829e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,7 +112,7 @@
             }
           },
           {
-            "id": "7a005358284c363e",
+            "id": "052a74e16ed4fbbb",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,9 +128,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b940676cf82db3fd",
-  "lastOpenFiles": [
-    "README.md",
-    "Machine Learning Specialization 2022.md"
-  ]
+  "active": "32cbf3c0b49c01c6",
+  "lastOpenFiles": []
 }
