@@ -1,4 +1,3 @@
-[[Personal Management]]
 # Machine <br /> Learning  <br /> Specialization <br /> 2022
 Farshid Pirahansiah
 www.tiziran.com
@@ -34,8 +33,40 @@ www.tiziran.com
 
 
 ### Week 2
-* a
-* b
+* TensorFlow implementation #code
+* Training Details #code
+	* model training steps
+		* how compute output
+		* specify loss and cost
+		* train on data to minimize cost
+			* create the model: units and activation 
+			* loss and cost functions: loss= BinaryCrossentropy | MeanSquaredError
+			* minimize cost function "Gradient descent":  
+* Alternatives to the sigmoid activation 
+	* Linear activation function
+	* Sigmoid
+	* ReLU
+	* Softmax activation 
+* Choosing activation functions
+	* binary classification -> Sigmoid (slower)
+	* Regression -> Linear activation function
+	* Regression (not negative value) -> ReLU (faster) 
+* Why do we need activation functions?
+	* use ReLU
+* Multiclass classification
+* Softmax
+* Neural Network with Softmax output
+	* SparseCategoricalCrossentropy
+* Improved implementation of softmax  #code
+	* loss=SparseCrossEntropy(from_logits=True)
+* Classification with multiple outputs
+	* multi-label classification
+* Advanced Optimization
+	* Adam: Adaptive Moment estimation 
+* Additional Layer Types
+	* Convolutional Layer
+		* Faster computation
+		* need less training data (less prone to over-fitting)
 * 
 
 
