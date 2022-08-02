@@ -1,3 +1,4 @@
+[[Personal Management]]
 # Machine <br /> Learning  <br /> Specialization <br /> 2022
 Farshid Pirahansiah
 www.tiziran.com
