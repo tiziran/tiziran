@@ -10,7 +10,7 @@ www.tiziran.com
 
 ## Advanced <br /> Learning <br /> Algorithms
 
-### week 1
+### Week 1
 
 * why now?
 * demand prediction
@@ -69,4 +69,7 @@ www.tiziran.com
 		* need less training data (less prone to over-fitting)
 * 
 
-
+### Week 3
+* a
+* b
+* 
