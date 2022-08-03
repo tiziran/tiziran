@@ -3,9 +3,13 @@ After few years of research and learning I got some idea about personal manageme
 Please give feed back 
 [[Machine Learning Specialization 2022]]
 
+# <font style="color:green">Text Color</font> 
+
+
 
 * Personal Knowledge management 
 	* Second Brian ```Tiago Forte```   <!-- https://www.youtube.com/c/TiagoForteLabs/videos --> 
+	* https://johnmavrick.gumroad.com/l/obsidian-starter-vault?recommended_by=library 
 	* I Tried Obsidian Note Taking for a Week... (MD App Review, Tips, Features, Guide, and Setup) <!-- https://www.youtube.com/watch?v=TDhTpPIjsDg -->
 		* example workflows in obsidian
 			- https://forum.obsidian.md/t/example-workflows-in-obsidian/1093
